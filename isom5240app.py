@@ -6,7 +6,7 @@ import time
 st.title("Streamlit Demo on Hugging Face")
 
 # Write some text
-st.write(" to a demo app showcasing basic Streamlit components!")
+st.write(" Welcome to a demo app showcasing basic Streamlit components!")
 
 # File uploader for image and audio
 uploaded_image = st.file_uploader("Upload an image",
